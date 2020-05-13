@@ -1,0 +1,24 @@
+body {
+    background-image: url();
+    margin: 0;
+    background-repeat: no-repeat;
+}
+
+#navBar{
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    border: 3px solid black;
+}
+
+#gLogo {
+    border-radius: 50px;
+    box-shadow: 5px 10px 8px black;
+}
+
+#intro {
+    width: 80%;
+    height: 50%;
+    margin: auto;
+    border: 3px solid black;
+}
